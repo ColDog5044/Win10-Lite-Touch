@@ -1,0 +1,6 @@
+Convert Windows ESD File to Windows WIM File! (5:23)
+https://www.youtube.com/watch?v=wuq-vA7kPfU
+
+dism /get-wiminfo /wimfile:c:\esd\install.esd
+
+dism /export-image /SourceImageFile:install.esd /SourceIndex:4 /DestinationImageFile:install.wim /Compress:max /CheckIntegrity

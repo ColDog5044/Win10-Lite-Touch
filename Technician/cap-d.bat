@@ -1,0 +1,1 @@
+x:\windows\system32\dism /capture-image /capturedir:d:\ /imagefile:z:\myimage.wim /name:"Win10"

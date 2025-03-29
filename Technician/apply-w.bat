@@ -1,0 +1,1 @@
+x:\windows\system32\dism /apply-image /imagefile:z:\myimage.wim /applydir:w:\ /index:1
