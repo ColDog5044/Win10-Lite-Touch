@@ -71,3 +71,8 @@ This demonstration uses the Enterprise version of Windows 10.
 
 ## Answer File
 
+https://www.windowscentral.com/how-create-unattended-media-do-automated-installation-windows-10
+
+## Resources
+
+https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/oem-deployment-of-windows-desktop-editions?view=windows-11
